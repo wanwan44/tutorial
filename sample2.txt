@@ -2,3 +2,4 @@ wakame 2
 wakame 2nd
 wakame second
 :wakame
+::wakame
